@@ -8,7 +8,7 @@ OriginExhaust can be used for a game such as Titanfall. Find the Origin LaunchGa
 
 Simply start a new instance of the `Exhaust` class by calling `new Exhaust(exeName, originId).Start();` The exeName parameter is the name of the main executable without the extension, and originId is the LaunchGame ID of the Origin game.
 
-Example: the `Exhaust` instance for Titanfall looks like this
+Example: the `Exhaust` instance for Titanfall looks like
 `new Exhaust("Titanfall", "1011172").Start();`
 
 License
